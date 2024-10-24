@@ -1,15 +1,30 @@
-HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Oct 2024 14:38:09 at http://www.topflyma.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.topflyma.com/ -O1 "D:\WebSite\kycmetal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
-
-Information, Warnings and Errors reported for this mirror:
-note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
-	such as username/password authentication for websites mirrored in this project
-	do not share these files/folders if you want these information to remain private
-
-14:42:50	Error: 	"Not Found" (404) at link static.websiteonline.cn/website/plugin/unslider/css/script/pie.htc (from static.websiteonline.cn/website/plugin/unslider/css/unslider.css?v=16086236)
-14:42:50	Error: 	"Not Found" (404) at link www.topflyma.com/GET (from static.websiteonline.cn/website/script/??libsjq.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=17272388)
-14:43:11	Error: 	"Not Found" (404) at link static.websiteonline.cn/website/script/api/js/wb.js (from tjs.sjs.sinajs.cn/open/api/js/wb.js)
-14:43:12	Error: 	"Not Found" (404) at link www.topflyma.com/goods-info (from www.topflyma.com/PRODUCTS-MORE?product_id=9)
-
-HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 3 seconds : 189 links scanned, 183 files written (8435199 bytes overall) [6076108 bytes received at 20053 bytes/sec], 5537814 bytes transferred using HTTP compression in 148 files, ratio 56%, 2.8 requests per connection
-(4 errors, 0 warnings, 0 messages)
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 24 Oct 2024 14:38:09 at http://www.kycmetal.business/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+www.kycmetal.business
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.topflyma.com/ -O1 "D:\WebSite\kycmetal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+www.kycmetal.business
+	such as username/password authentication for websites mirrored in this project
+www.kycmetal.businesswww.kycmetal.business
+	do not share these files/folders if you want these information to remain private
+
+
+
+14:42:50	Error: 	"Not Found" (404) at link static.websiteonline.cn/website/plugin/unslider/css/script/pie.htc (from static.websiteonline.cn/website/plugin/unslider/css/unslider.css?v=16086236)
+
+14:42:50	Error: 	"Not Found" (404) at link www.topflyma.com/GET (from static.websiteonline.cn/website/script/??libsjq.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=17272388)
+
+14:43:11	Error: 	"Not Found" (404) at link static.websiteonline.cn/website/script/api/js/wb.js (from tjs.sjs.sinajs.cn/open/api/js/wb.js)
+
+14:43:12	Error: 	"Not Found" (404) at link www.topflyma.com/goods-info (from www.topflyma.com/PRODUCTS-MORE?product_id=9)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 3 seconds : 189 links scanned, 183 files written (8435199 bytes overall) [6076108 bytes received at 20053 bytes/sec], 5537814 bytes transferred using HTTP compression in 148 files, ratio 56%, 2.8 requests per connection
+
+(4 errors, 0 warnings, 0 messages)
+
