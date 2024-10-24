@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "SourceHanSerifCN-Regular";
+    src: url("SourceHanSerifCN-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSansCN-Regular";
+    src: url("SourceHanSansCN-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSerifTW-Regular";
+    src: url("SourceHanSerifTW-Regular.woff");
+}
+@font-face {
+    font-family: "SourceHanSansTW-Regular";
+    src: url("SourceHanSansTW-Regular.woff");
+}
