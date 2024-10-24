@@ -17,11 +17,11 @@ def remove_lazy_loading(directory):
             for img in images:
                 # Get the real src from data-original or data-src
                 real_src = img.get('data-original') or img.get('data-src')
-                if real_src:
-                    img['src'] = real_src  # Replace src with the actual image URL
-                    # Optionally, remove the lazy loading attributes
-                    #img.pop('data-original', None)
-                    #img.pop('data-src', None)
+                # if real_src:
+                #     img['src'] = real_src  # Replace src with the actual image URL
+                #     # Optionally, remove the lazy loading attributes
+                #     #img.pop('data-original', None)
+                #     #img.pop('data-src', None)
 
             # Write the modified HTML back to the file
             with open(file_path, 'w', encoding='utf-8') as file:
