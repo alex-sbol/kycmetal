@@ -30,10 +30,10 @@ ol,ul,li{list-style-type:none;}
 #scroll_container_bg {position:absolute;width:100%;left:0px;top:0px;}
 #canvas {position:relative;width:100%;z-index:99;}
 #canvas .cstlayer,#site_footer .cstlayer {left:0;top:0;position:absolute;/*overflow:hidden;*/z-index:99;}
-.cstlayer  .layer_content{behavior: url(http://static.websiteonline.cn/website/script/pie.htc);}
+.cstlayer  .layer_content{behavior: url(http://static/website/script/pie.htc);}
 
 /*--阴影几种样式--*/
-.wp-moudle-shadow-one,.wp-moudle-shadow-two,.wp-moudle-shadow-three,.wp-moudle-shadow-four{  behavior: url(http://static.websiteonline.cn/website/script/pie.htc); }
+.wp-moudle-shadow-one,.wp-moudle-shadow-two,.wp-moudle-shadow-three,.wp-moudle-shadow-four{  behavior: url(http://static/website/script/pie.htc); }
 .wp-moudle-shadow-one{ -moz-box-shadow:1px  2px 12px 3px rgba(0,0,0,.4); -webkit-box-shadow:1px  2px  12px 3px  rgba(0,0,0,.4); box-shadow:1px  2px  12px 3px  rgba(0,0,0,.4);}
 .wp-moudle-shadow-two{ -moz-box-shadow:1px 1px 12px 6px rgba(0,0,0,.4); -webkit-box-shadow:1px  1px  12px 6px  rgba(0,0,0,.4); box-shadow:1px  1px  12px 6px  rgba(0,0,0,.4);}
 .wp-moudle-shadow-three{ -moz-box-shadow:5px  5px 12px 3px rgba(0,0,0,.4); -webkit-box-shadow:5px  5px  12px 3px  rgba(0,0,0,.4); box-shadow:5px  5px  12px 3px  rgba(0,0,0,.4);}
@@ -117,7 +117,7 @@ div.cp:hover{background-position:0 -13px; }
 .payknow_content ol li,.mpayknow_content ol li{list-style-type: decimal;display: list-item}
 .artview_detail tr.ue-table-interlace-color-single,.wp-products-detail-desc tr.ue-table-interlace-color-single,.product_details_desc .goods-detail tr.ue-table-interlace-color-single,.payknow_content tr.ue-table-interlace-color-single,.mpayknow_content tr.ue-table-interlace-color-single{background-color: #fcfcfc;}
 .artview_detail tr.ue-table-interlace-color-double,.wp-products-detail-desc tr.ue-table-interlace-color-double,.product_details_desc .goods-detail tr.ue-table-interlace-color-double,.payknow_content tr.ue-table-interlace-color-double,.mpayknow_content tr.ue-table-interlace-color-double{background-color: #f7faff;}
-.navigation,.wp_subtop,.navigation ul li{behavior: url(http://static.websiteonline.cn/website/script/pie.htc);}
+.navigation,.wp_subtop,.navigation ul li{behavior: url(http://static/website/script/pie.htc);}
 
 /*--------手机设备样式 2014/02/07-----------*/
 .wp-mobile-device-mask,.wp-mobile-scrollbar,
